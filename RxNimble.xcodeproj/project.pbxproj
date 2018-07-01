@@ -9,25 +9,18 @@
 /* Begin PBXBuildFile section */
 		A593A6FC20E83AAD00045291 /* RxNimble.h in Headers */ = {isa = PBXBuildFile; fileRef = A593A6FA20E83AAD00045291 /* RxNimble.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A593A73B20E9368100045291 /* RxNimble_macOS.h in Headers */ = {isa = PBXBuildFile; fileRef = A593A73920E9368100045291 /* RxNimble_macOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A593A74B20E9566700045291 /* RxNimble_tvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = A593A74920E9566700045291 /* RxNimble_tvOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A593A75820E95AC700045291 /* Expectation+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75520E95AC700045291 /* Expectation+Ext.swift */; };
 		A593A75920E95AC700045291 /* Expectation+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75520E95AC700045291 /* Expectation+Ext.swift */; };
-		A593A75A20E95AC700045291 /* Expectation+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75520E95AC700045291 /* Expectation+Ext.swift */; };
 		A593A75B20E95AC700045291 /* Expectation+Blocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75620E95AC700045291 /* Expectation+Blocking.swift */; };
 		A593A75C20E95AC700045291 /* Expectation+Blocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75620E95AC700045291 /* Expectation+Blocking.swift */; };
-		A593A75D20E95AC700045291 /* Expectation+Blocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75620E95AC700045291 /* Expectation+Blocking.swift */; };
 		A593A75E20E95AC700045291 /* RxNimble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75720E95AC700045291 /* RxNimble.swift */; };
 		A593A75F20E95AC700045291 /* RxNimble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75720E95AC700045291 /* RxNimble.swift */; };
-		A593A76020E95AC700045291 /* RxNimble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75720E95AC700045291 /* RxNimble.swift */; };
 		A593A76120E961E000045291 /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A593A70A20E83B4300045291 /* Nimble.framework */; };
 		A593A76220E961E000045291 /* RxBlocking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A593A70B20E83B4300045291 /* RxBlocking.framework */; };
 		A593A76320E961E000045291 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A593A70920E83B4300045291 /* RxSwift.framework */; };
 		A593A77820E9620400045291 /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A593A76520E961F300045291 /* Nimble.framework */; };
 		A593A77920E9620400045291 /* RxBlocking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A593A77720E961F300045291 /* RxBlocking.framework */; };
 		A593A77A20E9620400045291 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A593A76420E961F300045291 /* RxSwift.framework */; };
-		A593A77E20E9621400045291 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A593A77B20E9621400045291 /* RxSwift.framework */; };
-		A593A78020E9621400045291 /* RxBlocking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A593A77D20E9621400045291 /* RxBlocking.framework */; };
-		A593A78420E97C9900045291 /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A593A77C20E9621400045291 /* Nimble.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,18 +33,12 @@
 		A593A73720E9368100045291 /* RxNimble.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxNimble.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A593A73920E9368100045291 /* RxNimble_macOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RxNimble_macOS.h; sourceTree = "<group>"; };
 		A593A73A20E9368100045291 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A593A74720E9566700045291 /* RxNimble.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxNimble.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A593A74920E9566700045291 /* RxNimble_tvOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RxNimble_tvOS.h; sourceTree = "<group>"; };
-		A593A74A20E9566700045291 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A593A75520E95AC700045291 /* Expectation+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Expectation+Ext.swift"; path = "Source/Expectation+Ext.swift"; sourceTree = "<group>"; };
 		A593A75620E95AC700045291 /* Expectation+Blocking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Expectation+Blocking.swift"; path = "Source/Expectation+Blocking.swift"; sourceTree = "<group>"; };
 		A593A75720E95AC700045291 /* RxNimble.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RxNimble.swift; path = Source/RxNimble.swift; sourceTree = "<group>"; };
 		A593A76420E961F300045291 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/Mac/RxSwift.framework; sourceTree = "<group>"; };
 		A593A76520E961F300045291 /* Nimble.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Nimble.framework; path = Carthage/Build/Mac/Nimble.framework; sourceTree = "<group>"; };
 		A593A77720E961F300045291 /* RxBlocking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxBlocking.framework; path = Carthage/Build/Mac/RxBlocking.framework; sourceTree = "<group>"; };
-		A593A77B20E9621400045291 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/tvOS/RxSwift.framework; sourceTree = "<group>"; };
-		A593A77C20E9621400045291 /* Nimble.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Nimble.framework; path = Carthage/Build/tvOS/Nimble.framework; sourceTree = "<group>"; };
-		A593A77D20E9621400045291 /* RxBlocking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxBlocking.framework; path = Carthage/Build/tvOS/RxBlocking.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,16 +62,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A593A74320E9566700045291 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A593A78420E97C9900045291 /* Nimble.framework in Frameworks */,
-				A593A77E20E9621400045291 /* RxSwift.framework in Frameworks */,
-				A593A78020E9621400045291 /* RxBlocking.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -94,7 +71,6 @@
 				A593A75420E95AB200045291 /* Source */,
 				A593A6F920E83AAD00045291 /* RxNimble */,
 				A593A73820E9368100045291 /* RxNimble-macOS */,
-				A593A74820E9566700045291 /* RxNimble-tvOS */,
 				A593A6F820E83AAD00045291 /* Products */,
 				A593A70820E83B4200045291 /* Frameworks */,
 			);
@@ -105,7 +81,6 @@
 			children = (
 				A593A6F720E83AAD00045291 /* RxNimble.framework */,
 				A593A73720E9368100045291 /* RxNimble.framework */,
-				A593A74720E9566700045291 /* RxNimble.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -122,9 +97,6 @@
 		A593A70820E83B4200045291 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				A593A77C20E9621400045291 /* Nimble.framework */,
-				A593A77D20E9621400045291 /* RxBlocking.framework */,
-				A593A77B20E9621400045291 /* RxSwift.framework */,
 				A593A76520E961F300045291 /* Nimble.framework */,
 				A593A77720E961F300045291 /* RxBlocking.framework */,
 				A593A76420E961F300045291 /* RxSwift.framework */,
@@ -142,15 +114,6 @@
 				A593A73A20E9368100045291 /* Info.plist */,
 			);
 			path = "RxNimble-macOS";
-			sourceTree = "<group>";
-		};
-		A593A74820E9566700045291 /* RxNimble-tvOS */ = {
-			isa = PBXGroup;
-			children = (
-				A593A74920E9566700045291 /* RxNimble_tvOS.h */,
-				A593A74A20E9566700045291 /* Info.plist */,
-			);
-			path = "RxNimble-tvOS";
 			sourceTree = "<group>";
 		};
 		A593A75420E95AB200045291 /* Source */ = {
@@ -179,14 +142,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A593A73B20E9368100045291 /* RxNimble_macOS.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		A593A74420E9566700045291 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A593A74B20E9566700045291 /* RxNimble_tvOS.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,24 +184,6 @@
 			productReference = A593A73720E9368100045291 /* RxNimble.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		A593A74620E9566700045291 /* RxNimble-tvOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = A593A74C20E9566700045291 /* Build configuration list for PBXNativeTarget "RxNimble-tvOS" */;
-			buildPhases = (
-				A593A74220E9566700045291 /* Sources */,
-				A593A74320E9566700045291 /* Frameworks */,
-				A593A74420E9566700045291 /* Headers */,
-				A593A74520E9566700045291 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "RxNimble-tvOS";
-			productName = "RxNimble-tvOS";
-			productReference = A593A74720E9566700045291 /* RxNimble.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -261,10 +198,6 @@
 						LastSwiftMigration = 0940;
 					};
 					A593A73620E9368100045291 = {
-						CreatedOnToolsVersion = 9.4;
-						LastSwiftMigration = 0940;
-					};
-					A593A74620E9566700045291 = {
 						CreatedOnToolsVersion = 9.4;
 						LastSwiftMigration = 0940;
 					};
@@ -284,7 +217,6 @@
 			targets = (
 				A593A6F620E83AAD00045291 /* RxNimble */,
 				A593A73620E9368100045291 /* RxNimble-macOS */,
-				A593A74620E9566700045291 /* RxNimble-tvOS */,
 			);
 		};
 /* End PBXProject section */
@@ -298,13 +230,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		A593A73520E9368100045291 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		A593A74520E9566700045291 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -331,16 +256,6 @@
 				A593A75920E95AC700045291 /* Expectation+Ext.swift in Sources */,
 				A593A75C20E95AC700045291 /* Expectation+Blocking.swift in Sources */,
 				A593A75F20E95AC700045291 /* RxNimble.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		A593A74220E9566700045291 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A593A75A20E95AC700045291 /* Expectation+Ext.swift in Sources */,
-				A593A75D20E95AC700045291 /* Expectation+Blocking.swift in Sources */,
-				A593A76020E95AC700045291 /* RxNimble.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -609,83 +524,6 @@
 			};
 			name = Release;
 		};
-		A593A74D20E9566700045291 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/tvOS",
-					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
-					"$(DEVELOPER_FRAMEWORKS_DIR)",
-				);
-				INFOPLIST_FILE = "RxNimble-tvOS/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.RxSwiftCommunity.RxNimble-tvOS";
-				PRODUCT_NAME = RxNimble;
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.0;
-			};
-			name = Debug;
-		};
-		A593A74E20E9566700045291 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/tvOS",
-					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
-					"$(DEVELOPER_FRAMEWORKS_DIR)",
-				);
-				INFOPLIST_FILE = "RxNimble-tvOS/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.RxSwiftCommunity.RxNimble-tvOS";
-				PRODUCT_NAME = RxNimble;
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.0;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -712,15 +550,6 @@
 			buildConfigurations = (
 				A593A73C20E9368100045291 /* Debug */,
 				A593A73D20E9368100045291 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		A593A74C20E9566700045291 /* Build configuration list for PBXNativeTarget "RxNimble-tvOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A593A74D20E9566700045291 /* Debug */,
-				A593A74E20E9566700045291 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
