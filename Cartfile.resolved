@@ -1,2 +1,2 @@
-github "Quick/Nimble" "v7.1.2"
+github "Quick/Nimble" "5eccb9524614fdd8bed37e6ea6f6dcbca6c8258e"
 github "ReactiveX/RxSwift" "4.2.0"
