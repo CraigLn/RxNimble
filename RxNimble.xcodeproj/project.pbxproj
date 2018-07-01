@@ -8,35 +8,35 @@
 
 /* Begin PBXBuildFile section */
 		A593A6FC20E83AAD00045291 /* RxNimble.h in Headers */ = {isa = PBXBuildFile; fileRef = A593A6FA20E83AAD00045291 /* RxNimble.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A593A70520E83B2C00045291 /* Expectation+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A70220E83B2C00045291 /* Expectation+Ext.swift */; };
-		A593A70620E83B2C00045291 /* Expectation+Blocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A70320E83B2C00045291 /* Expectation+Blocking.swift */; };
-		A593A70720E83B2C00045291 /* RxNimble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A70420E83B2C00045291 /* RxNimble.swift */; };
 		A593A73B20E9368100045291 /* RxNimble_macOS.h in Headers */ = {isa = PBXBuildFile; fileRef = A593A73920E9368100045291 /* RxNimble_macOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A593A73F20E9368900045291 /* Expectation+Blocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A70320E83B2C00045291 /* Expectation+Blocking.swift */; };
-		A593A74020E9368B00045291 /* Expectation+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A70220E83B2C00045291 /* Expectation+Ext.swift */; };
-		A593A74120E9368E00045291 /* RxNimble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A70420E83B2C00045291 /* RxNimble.swift */; };
 		A593A74B20E9566700045291 /* RxNimble_tvOS.h in Headers */ = {isa = PBXBuildFile; fileRef = A593A74920E9566700045291 /* RxNimble_tvOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A593A74F20E9566B00045291 /* Expectation+Blocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A70320E83B2C00045291 /* Expectation+Blocking.swift */; };
-		A593A75020E9566D00045291 /* Expectation+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A70220E83B2C00045291 /* Expectation+Ext.swift */; };
-		A593A75120E9566F00045291 /* RxNimble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A70420E83B2C00045291 /* RxNimble.swift */; };
+		A593A75820E95AC700045291 /* Expectation+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75520E95AC700045291 /* Expectation+Ext.swift */; };
+		A593A75920E95AC700045291 /* Expectation+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75520E95AC700045291 /* Expectation+Ext.swift */; };
+		A593A75A20E95AC700045291 /* Expectation+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75520E95AC700045291 /* Expectation+Ext.swift */; };
+		A593A75B20E95AC700045291 /* Expectation+Blocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75620E95AC700045291 /* Expectation+Blocking.swift */; };
+		A593A75C20E95AC700045291 /* Expectation+Blocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75620E95AC700045291 /* Expectation+Blocking.swift */; };
+		A593A75D20E95AC700045291 /* Expectation+Blocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75620E95AC700045291 /* Expectation+Blocking.swift */; };
+		A593A75E20E95AC700045291 /* RxNimble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75720E95AC700045291 /* RxNimble.swift */; };
+		A593A75F20E95AC700045291 /* RxNimble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75720E95AC700045291 /* RxNimble.swift */; };
+		A593A76020E95AC700045291 /* RxNimble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A593A75720E95AC700045291 /* RxNimble.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A593A6F720E83AAD00045291 /* RxNimble.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxNimble.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A593A6FA20E83AAD00045291 /* RxNimble.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RxNimble.h; sourceTree = "<group>"; };
 		A593A6FB20E83AAD00045291 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A593A70220E83B2C00045291 /* Expectation+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Expectation+Ext.swift"; path = "Source/Expectation+Ext.swift"; sourceTree = SOURCE_ROOT; };
-		A593A70320E83B2C00045291 /* Expectation+Blocking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Expectation+Blocking.swift"; path = "Source/Expectation+Blocking.swift"; sourceTree = SOURCE_ROOT; };
-		A593A70420E83B2C00045291 /* RxNimble.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RxNimble.swift; path = Source/RxNimble.swift; sourceTree = SOURCE_ROOT; };
 		A593A70920E83B4300045291 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/iOS/RxSwift.framework; sourceTree = "<group>"; };
 		A593A70A20E83B4300045291 /* Nimble.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Nimble.framework; path = Carthage/Build/iOS/Nimble.framework; sourceTree = "<group>"; };
 		A593A70B20E83B4300045291 /* RxBlocking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxBlocking.framework; path = Carthage/Build/iOS/RxBlocking.framework; sourceTree = "<group>"; };
-		A593A73720E9368100045291 /* RxNimble_macOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxNimble_macOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A593A73720E9368100045291 /* RxNimble.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxNimble.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A593A73920E9368100045291 /* RxNimble_macOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RxNimble_macOS.h; sourceTree = "<group>"; };
 		A593A73A20E9368100045291 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A593A74720E9566700045291 /* RxNimble_tvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxNimble_tvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A593A74720E9566700045291 /* RxNimble.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxNimble.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A593A74920E9566700045291 /* RxNimble_tvOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RxNimble_tvOS.h; sourceTree = "<group>"; };
 		A593A74A20E9566700045291 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A593A75520E95AC700045291 /* Expectation+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Expectation+Ext.swift"; path = "Source/Expectation+Ext.swift"; sourceTree = "<group>"; };
+		A593A75620E95AC700045291 /* Expectation+Blocking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Expectation+Blocking.swift"; path = "Source/Expectation+Blocking.swift"; sourceTree = "<group>"; };
+		A593A75720E95AC700045291 /* RxNimble.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RxNimble.swift; path = Source/RxNimble.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +67,7 @@
 		A593A6ED20E83AAD00045291 = {
 			isa = PBXGroup;
 			children = (
+				A593A75420E95AB200045291 /* Source */,
 				A593A6F920E83AAD00045291 /* RxNimble */,
 				A593A73820E9368100045291 /* RxNimble-macOS */,
 				A593A74820E9566700045291 /* RxNimble-tvOS */,
@@ -79,8 +80,8 @@
 			isa = PBXGroup;
 			children = (
 				A593A6F720E83AAD00045291 /* RxNimble.framework */,
-				A593A73720E9368100045291 /* RxNimble_macOS.framework */,
-				A593A74720E9566700045291 /* RxNimble_tvOS.framework */,
+				A593A73720E9368100045291 /* RxNimble.framework */,
+				A593A74720E9566700045291 /* RxNimble.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -88,9 +89,6 @@
 		A593A6F920E83AAD00045291 /* RxNimble */ = {
 			isa = PBXGroup;
 			children = (
-				A593A70320E83B2C00045291 /* Expectation+Blocking.swift */,
-				A593A70220E83B2C00045291 /* Expectation+Ext.swift */,
-				A593A70420E83B2C00045291 /* RxNimble.swift */,
 				A593A6FA20E83AAD00045291 /* RxNimble.h */,
 				A593A6FB20E83AAD00045291 /* Info.plist */,
 			);
@@ -123,6 +121,16 @@
 				A593A74A20E9566700045291 /* Info.plist */,
 			);
 			path = "RxNimble-tvOS";
+			sourceTree = "<group>";
+		};
+		A593A75420E95AB200045291 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				A593A75620E95AC700045291 /* Expectation+Blocking.swift */,
+				A593A75520E95AC700045291 /* Expectation+Ext.swift */,
+				A593A75720E95AC700045291 /* RxNimble.swift */,
+			);
+			name = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -188,7 +196,7 @@
 			);
 			name = "RxNimble-macOS";
 			productName = "RxNimble-macOS";
-			productReference = A593A73720E9368100045291 /* RxNimble_macOS.framework */;
+			productReference = A593A73720E9368100045291 /* RxNimble.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		A593A74620E9566700045291 /* RxNimble-tvOS */ = {
@@ -206,7 +214,7 @@
 			);
 			name = "RxNimble-tvOS";
 			productName = "RxNimble-tvOS";
-			productReference = A593A74720E9566700045291 /* RxNimble_tvOS.framework */;
+			productReference = A593A74720E9566700045291 /* RxNimble.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -224,9 +232,11 @@
 					};
 					A593A73620E9368100045291 = {
 						CreatedOnToolsVersion = 9.4;
+						LastSwiftMigration = 0940;
 					};
 					A593A74620E9566700045291 = {
 						CreatedOnToolsVersion = 9.4;
+						LastSwiftMigration = 0940;
 					};
 				};
 			};
@@ -278,9 +288,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A593A70520E83B2C00045291 /* Expectation+Ext.swift in Sources */,
-				A593A70620E83B2C00045291 /* Expectation+Blocking.swift in Sources */,
-				A593A70720E83B2C00045291 /* RxNimble.swift in Sources */,
+				A593A75820E95AC700045291 /* Expectation+Ext.swift in Sources */,
+				A593A75B20E95AC700045291 /* Expectation+Blocking.swift in Sources */,
+				A593A75E20E95AC700045291 /* RxNimble.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,9 +298,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A593A74020E9368B00045291 /* Expectation+Ext.swift in Sources */,
-				A593A73F20E9368900045291 /* Expectation+Blocking.swift in Sources */,
-				A593A74120E9368E00045291 /* RxNimble.swift in Sources */,
+				A593A75920E95AC700045291 /* Expectation+Ext.swift in Sources */,
+				A593A75C20E95AC700045291 /* Expectation+Blocking.swift in Sources */,
+				A593A75F20E95AC700045291 /* RxNimble.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,9 +308,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A593A75020E9566D00045291 /* Expectation+Ext.swift in Sources */,
-				A593A74F20E9566B00045291 /* Expectation+Blocking.swift in Sources */,
-				A593A75120E9566F00045291 /* RxNimble.swift in Sources */,
+				A593A75A20E95AC700045291 /* Expectation+Ext.swift in Sources */,
+				A593A75D20E95AC700045291 /* Expectation+Blocking.swift in Sources */,
+				A593A76020E95AC700045291 /* RxNimble.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -453,7 +463,7 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.RxSwiftCommunity.RxNimble;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = RxNimble;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
@@ -485,7 +495,7 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.RxSwiftCommunity.RxNimble;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = RxNimble;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -495,6 +505,7 @@
 		A593A73C20E9368100045291 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -512,9 +523,10 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.RxSwiftCommunity.RxNimble-macOS";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = RxNimble;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -522,6 +534,7 @@
 		A593A73D20E9368100045291 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -539,7 +552,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.RxSwiftCommunity.RxNimble-macOS";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = RxNimble;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -549,6 +562,7 @@
 		A593A74D20E9566700045291 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
@@ -563,9 +577,10 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.RxSwiftCommunity.RxNimble-tvOS";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = RxNimble;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 11.4;
@@ -575,6 +590,7 @@
 		A593A74E20E9566700045291 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
@@ -589,7 +605,7 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.RxSwiftCommunity.RxNimble-tvOS";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = RxNimble;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
